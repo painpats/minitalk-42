@@ -32,5 +32,5 @@ Then in an **other terminal**, start the client and send a message:
    ```bash
    ./client <server_pid> "Your message here"
    ```
-  Replace `server_pid` with the PID of the running server.
+  *Replace `server_pid` with the PID of the running server.*
 

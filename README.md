@@ -2,6 +2,8 @@
 
 `minitalk` involves creating a simple inter-process communication system using UNIX signals. The goal is to implement a client-server architecture where a client can send messages to a server, which processes and acknowledges them.
 
+Score: **125%**
+
 ## Features
 
 Key components of the project include:
